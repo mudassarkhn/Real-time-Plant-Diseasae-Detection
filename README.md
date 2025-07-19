@@ -1,8 +1,8 @@
 # 🌿 Real-time Plants Disease Detection System 🌿
 
 
-![]('Screenshot1.png')
-![]('Screenshot2.png')
+![s](Screenshot1.png)
+![s](Screenshot2.png)
 ## 🚀 Overview
 
 This project is a real-time plants disease detection system built with Flask and powered by a YOLO (You Only Look Once) object detection model. It allows users to detect plant diseases either through a live webcam feed or by uploading images. The system processes video frames or images to identify and highlight diseased areas in real-time.
